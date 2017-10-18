@@ -1,6 +1,6 @@
 # Sniff Cookies
 
-[![Build Status](https://travis-ci.org/SkypLabs/sniff-cookies.svg)](https://travis-ci.org/SkypLabs/sniff-cookies)
+[![Build Status](https://travis-ci.org/SkypLabs/sniff-cookies.svg)](https://travis-ci.org/SkypLabs/sniff-cookies) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/729dc0fae9bf4581ba2c8ce0dd2cd999)](https://www.codacy.com/app/skyper/sniff-cookies?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SkypLabs/sniff-cookies&amp;utm_campaign=Badge_Grade)
 
 This program allows to display the HTTP cookies passing through the network which your NIC is connected.
 
